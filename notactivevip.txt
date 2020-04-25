@@ -1,0 +1,3 @@
+/usr/sbin/userdel pirata
+/usr/sbin/userdel alamvpn
+/usr/sbin/userdel Banana

@@ -1,0 +1,2 @@
+/usr/sbin/userdel test
+/usr/sbin/userdel alamvpn

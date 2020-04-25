@@ -1,0 +1,2 @@
+/usr/sbin/useradd -p $(openssl passwd -1 bananavpn) -M saging;
+/usr/sbin/useradd -p $(openssl passwd -1 testvpn404) -M testvpn;
